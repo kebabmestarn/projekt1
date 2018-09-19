@@ -1,0 +1,17 @@
+.red {
+	color: red;
+}
+
+.blue {
+	color: blue;
+}
+
+.hide {
+	visibility: hidden;
+}
+
+#photoImage {
+	position: absolue;
+	top: 800px;
+	left: 350px;
+}
